@@ -40,9 +40,9 @@ jobs:
       fail-fast: false # Continue running all jobs even if one fails
     env:
       DEBUG: 1
-      GRAPHRAG_API_KEY: ${{ secrets.OPENAI_NOTEBOOK_KEY }}
-      GRAPHRAG_LLM_MODEL: ${{ secrets.GRAPHRAG_LLM_MODEL }}
-      GRAPHRAG_EMBEDDING_MODEL: ${{ secrets.GRAPHRAG_EMBEDDING_MODEL }}
+      fdigraphrag_API_KEY: ${{ secrets.OPENAI_NOTEBOOK_KEY }}
+      fdigraphrag_LLM_MODEL: ${{ secrets.fdigraphrag_LLM_MODEL }}
+      fdigraphrag_EMBEDDING_MODEL: ${{ secrets.fdigraphrag_EMBEDDING_MODEL }}
 
     runs-on: ${{ matrix.os }}
     steps:
@@ -53,7 +53,7 @@ jobs:
         with:
           filters: |
             python:
-              - 'graphrag/**/*'
+              - 'fdigraphrag/**/*'
               - 'poetry.lock'
               - 'pyproject.toml'
               - '**/*.py'

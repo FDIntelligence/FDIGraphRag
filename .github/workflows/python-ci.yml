@@ -50,7 +50,7 @@ jobs:
         with:
           filters: |
             python:
-              - 'graphrag/**/*'
+              - 'fdigraphrag/**/*'
               - 'poetry.lock'
               - 'pyproject.toml'
               - '**/*.py'

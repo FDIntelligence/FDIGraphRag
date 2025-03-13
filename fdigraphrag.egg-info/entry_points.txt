@@ -1,0 +1,2 @@
+[console_scripts]
+fdigraphrag = fdigraphrag.cli.main:app

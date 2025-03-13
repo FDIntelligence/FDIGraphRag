@@ -1,0 +1,125 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="CAFE X" />
+    <node id="ACCOMMODATION AND FOOD SERVICES" />
+    <node id="CAVIAR" />
+    <node id="CHEFAED" />
+    <node id="CHOWNOW" />
+    <node id="CLOVER" />
+    <node id="CURB FOOD" />
+    <node id="DINNER LAB" />
+    <node id="FLOWTAB" />
+    <node id="SCANADU" />
+    <node id="HEALTH CARE" />
+    <node id="SHERPAA" />
+    <node id="SPRIG" />
+    <node id="PETCUBE" />
+    <node id="RETAIL TRADE" />
+    <node id="PETS.COM" />
+    <node id="PLUM" />
+    <node id="PLUM DISTRICT" />
+    <node id="POPSUGAR SHOP" />
+    <node id="POSHMARK UK" />
+    <node id="QUIRKY" />
+    <node id="RAISE" />
+    <node id="GIMLET" />
+    <node id="INFORMATION" />
+    <node id="GOWALLA" />
+    <node id="GROOVESHARK" />
+    <node id="TUNEIN PREMIUM" />
+    <node id="TWILIO SENDGRID" />
+    <node id="TWITTER FABRIC" />
+    <node id="TWITTER MUSIC" />
+    <node id="HOT POTATO" />
+    <node id="HUMANOID" />
+    <node id="AIRWARE" />
+    <node id="MANUFACTURING" />
+    <node id="ANKI" />
+    <node id="APTERA MOTORS" />
+    <node id="ARIA INSIGHTS" />
+    <node id="AUGUST HOME" />
+    <node id="BEAGLEBONE" />
+    <node id="BETTER PLACE" />
+    <node id="BUTTERFLY NETWORK" />
+    <node id="CUBELETS" />
+    <node id="DYSON'S EV PROJECT" />
+    <node id="ELIO MOTORS" />
+    <node id="ESSENTIAL PRODUCTS" />
+    <node id="FARADAY FUTURE" />
+    <node id="FISKER AUTOMOTIVE" />
+    <node id="GOPRO KARMA" />
+    <node id="HELLO" />
+    <node id="JAWBONE" />
+    <node id="JUICERO" />
+    <node id="LIGHT" />
+    <node id="LILY ROBOTICS" />
+    <node id="LYTRO" />
+    <node id="MAKERBOT" />
+    <node id="OSMO SYSTEMS" />
+    <node id="PEARL AUTOMATION" />
+    <node id="PEBBLE" />
+    <node id="QUANERGY" />
+    <node id="RETHINK ROBOTICS" />
+    <node id="SKULLY HELMETS" />
+    <node id="THALMIC LABS" />
+    <node id="ZUME" />
+    <edge source="CAFE X" target="ACCOMMODATION AND FOOD SERVICES" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="CAVIAR" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="CHEFAED" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="CHOWNOW" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="CLOVER" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="CURB FOOD" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="DINNER LAB" />
+    <edge source="ACCOMMODATION AND FOOD SERVICES" target="FLOWTAB" />
+    <edge source="SCANADU" target="HEALTH CARE" />
+    <edge source="HEALTH CARE" target="SHERPAA" />
+    <edge source="HEALTH CARE" target="SPRIG" />
+    <edge source="PETCUBE" target="RETAIL TRADE" />
+    <edge source="RETAIL TRADE" target="PETS.COM" />
+    <edge source="RETAIL TRADE" target="PLUM" />
+    <edge source="RETAIL TRADE" target="PLUM DISTRICT" />
+    <edge source="RETAIL TRADE" target="POPSUGAR SHOP" />
+    <edge source="RETAIL TRADE" target="POSHMARK UK" />
+    <edge source="RETAIL TRADE" target="QUIRKY" />
+    <edge source="RETAIL TRADE" target="RAISE" />
+    <edge source="GIMLET" target="INFORMATION" />
+    <edge source="INFORMATION" target="GOWALLA" />
+    <edge source="INFORMATION" target="GROOVESHARK" />
+    <edge source="INFORMATION" target="TUNEIN PREMIUM" />
+    <edge source="INFORMATION" target="TWILIO SENDGRID" />
+    <edge source="INFORMATION" target="TWITTER FABRIC" />
+    <edge source="INFORMATION" target="TWITTER MUSIC" />
+    <edge source="INFORMATION" target="HOT POTATO" />
+    <edge source="INFORMATION" target="HUMANOID" />
+    <edge source="AIRWARE" target="MANUFACTURING" />
+    <edge source="MANUFACTURING" target="ANKI" />
+    <edge source="MANUFACTURING" target="APTERA MOTORS" />
+    <edge source="MANUFACTURING" target="ARIA INSIGHTS" />
+    <edge source="MANUFACTURING" target="AUGUST HOME" />
+    <edge source="MANUFACTURING" target="BEAGLEBONE" />
+    <edge source="MANUFACTURING" target="BETTER PLACE" />
+    <edge source="MANUFACTURING" target="BUTTERFLY NETWORK" />
+    <edge source="MANUFACTURING" target="CUBELETS" />
+    <edge source="MANUFACTURING" target="DYSON'S EV PROJECT" />
+    <edge source="MANUFACTURING" target="ELIO MOTORS" />
+    <edge source="MANUFACTURING" target="ESSENTIAL PRODUCTS" />
+    <edge source="MANUFACTURING" target="FARADAY FUTURE" />
+    <edge source="MANUFACTURING" target="FISKER AUTOMOTIVE" />
+    <edge source="MANUFACTURING" target="GOPRO KARMA" />
+    <edge source="MANUFACTURING" target="HELLO" />
+    <edge source="MANUFACTURING" target="JAWBONE" />
+    <edge source="MANUFACTURING" target="JUICERO" />
+    <edge source="MANUFACTURING" target="LIGHT" />
+    <edge source="MANUFACTURING" target="LILY ROBOTICS" />
+    <edge source="MANUFACTURING" target="LYTRO" />
+    <edge source="MANUFACTURING" target="MAKERBOT" />
+    <edge source="MANUFACTURING" target="OSMO SYSTEMS" />
+    <edge source="MANUFACTURING" target="PEARL AUTOMATION" />
+    <edge source="MANUFACTURING" target="PEBBLE" />
+    <edge source="MANUFACTURING" target="QUANERGY" />
+    <edge source="MANUFACTURING" target="RETHINK ROBOTICS" />
+    <edge source="MANUFACTURING" target="SKULLY HELMETS" />
+    <edge source="MANUFACTURING" target="THALMIC LABS" />
+    <edge source="MANUFACTURING" target="ZUME" />
+  </graph>
+</graphml>
