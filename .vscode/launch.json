@@ -1,5 +1,5 @@
 {
-	"_comment": "Use this file to configure the graphrag project for debugging. You may create other configuration profiles based on these or select one below to use.",
+	"_comment": "Use this file to configure the fdigraphrag project for debugging. You may create other configuration profiles based on these or select one below to use.",
 	"version": "0.2.0",
 	"configurations": [
 		{

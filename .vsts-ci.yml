@@ -1,4 +1,4 @@
-name: GraphRAG CI
+name: fdigraphrag CI
 pool:
   vmImage: ubuntu-latest
 
